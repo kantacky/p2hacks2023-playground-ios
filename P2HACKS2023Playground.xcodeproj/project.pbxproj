@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		F1B1C4442B1CCF2000304C7F /* P2HACKS2023PlaygroundApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1C4432B1CCF2000304C7F /* P2HACKS2023PlaygroundApp.swift */; };
 		F1B1C4462B1CCF2000304C7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1C4452B1CCF2000304C7F /* ContentView.swift */; };
-		F1B1C4482B1CCF2000304C7F /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1C4472B1CCF2000304C7F /* Item.swift */; };
 		F1B1C44A2B1CCF2100304C7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1B1C4492B1CCF2100304C7F /* Assets.xcassets */; };
 		F1B1C44D2B1CCF2100304C7F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1B1C44C2B1CCF2100304C7F /* Preview Assets.xcassets */; };
 		F1B1C4572B1CCF2100304C7F /* P2HACKS2023PlaygroundTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B1C4562B1CCF2100304C7F /* P2HACKS2023PlaygroundTests.swift */; };
@@ -38,7 +37,6 @@
 		F1B1C4402B1CCF2000304C7F /* P2HACKS2023Playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = P2HACKS2023Playground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1B1C4432B1CCF2000304C7F /* P2HACKS2023PlaygroundApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P2HACKS2023PlaygroundApp.swift; sourceTree = "<group>"; };
 		F1B1C4452B1CCF2000304C7F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		F1B1C4472B1CCF2000304C7F /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		F1B1C4492B1CCF2100304C7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1B1C44C2B1CCF2100304C7F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F1B1C4522B1CCF2100304C7F /* P2HACKS2023PlaygroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = P2HACKS2023PlaygroundTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -98,7 +96,6 @@
 			children = (
 				F1B1C4432B1CCF2000304C7F /* P2HACKS2023PlaygroundApp.swift */,
 				F1B1C4452B1CCF2000304C7F /* ContentView.swift */,
-				F1B1C4472B1CCF2000304C7F /* Item.swift */,
 				F1B1C4492B1CCF2100304C7F /* Assets.xcassets */,
 				F1B1C44B2B1CCF2100304C7F /* Preview Content */,
 			);
@@ -261,7 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F1B1C4462B1CCF2000304C7F /* ContentView.swift in Sources */,
-				F1B1C4482B1CCF2000304C7F /* Item.swift in Sources */,
 				F1B1C4442B1CCF2000304C7F /* P2HACKS2023PlaygroundApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
